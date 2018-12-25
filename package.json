@@ -1,22 +1,25 @@
 {
-  "name": "electron-quick-start",
+  "name": "Client",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "a screen share app.",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "rexl.eu",
+    "screen",
+    "share",
+    "rexlManu",
+    "manu"
   ],
-  "author": "GitHub",
+  "author": "rexlManu",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^3.0.7"
+  },
+  "dependencies": {
+    "screenshot-desktop": "^1.5.4"
   }
 }
